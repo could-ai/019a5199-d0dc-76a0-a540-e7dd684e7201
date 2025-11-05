@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'screens/exercise_input_screen.dart';
-import 'screens/routine_selection_screen.dart';
-import 'screens/workout_screen.dart';
+import 'exercise_input_screen.dart';
+import 'routine_selection_screen.dart';
+import 'workout_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
